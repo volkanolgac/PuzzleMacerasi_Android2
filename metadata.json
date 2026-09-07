@@ -1,0 +1,8 @@
+{
+  "name": "Puzzle Macerası",
+  "description": "Puzzle Macerası ver 0.1",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
